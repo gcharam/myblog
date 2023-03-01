@@ -25,7 +25,7 @@
                 <p class="card-text">{{$bodys}}</p>
               </div>
               <div class="card-body">
-                <a href="#" class="card-link">Περισσότερα</a>
+                <a href="#" class="card-link">Περισσότερα!!</a>
                 <a href="/delete/testgame/{{$post->id}}" class="card-link">Deleteα</a>
               </div>
           </div>
